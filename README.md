@@ -10,4 +10,4 @@
 | 実装した機能についてのGIF|実装した機能について、それぞれどのような特徴があるのか列挙しましょう。GIFを添えることで、イメージがしやすくなります。|
 | 実装予定機能||
 | データベース設計|	![ER図](https://gyazo.com/00b45d4ff0d1a44c62b2761c3de97163.png)|
-| ローカルでの動作方法|`git clone https://github.com/hayashihiroaki/crud_python.git`  `cd crud_python` `pip install pipenv` `pipenv install` `pipenv install django` `pipenv shell` `pip install --upgrade django-crispy-forms` <br>python: 3.9 <br>django: 3.1.2|
+| ローカルでの動作方法|`git clone https://github.com/hayashihiroaki/crud_python.git`<br>  `cd crud_python` <br>`pip install pipenv`<br> `pipenv install`<br> `pipenv install django`<br> `pipenv shell`<br> `pip install --upgrade django-crispy-forms` <br>python: 3.9 <br>django: 3.1.2|
